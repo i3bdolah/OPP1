@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DownAndUpCasting", "DownAnd
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualFunction", "VirtualFunction\VirtualFunction.vcxproj", "{2D6CD2FE-AE04-43E0-B152-92CAA8DB204F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AbstractClass", "AbstractClass\AbstractClass.vcxproj", "{DB58F173-F772-46E1-B823-052274AE9FEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{2D6CD2FE-AE04-43E0-B152-92CAA8DB204F}.Release|x64.Build.0 = Release|x64
 		{2D6CD2FE-AE04-43E0-B152-92CAA8DB204F}.Release|x86.ActiveCfg = Release|Win32
 		{2D6CD2FE-AE04-43E0-B152-92CAA8DB204F}.Release|x86.Build.0 = Release|Win32
+		{DB58F173-F772-46E1-B823-052274AE9FEC}.Debug|x64.ActiveCfg = Debug|x64
+		{DB58F173-F772-46E1-B823-052274AE9FEC}.Debug|x64.Build.0 = Debug|x64
+		{DB58F173-F772-46E1-B823-052274AE9FEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB58F173-F772-46E1-B823-052274AE9FEC}.Debug|x86.Build.0 = Debug|Win32
+		{DB58F173-F772-46E1-B823-052274AE9FEC}.Release|x64.ActiveCfg = Release|x64
+		{DB58F173-F772-46E1-B823-052274AE9FEC}.Release|x64.Build.0 = Release|x64
+		{DB58F173-F772-46E1-B823-052274AE9FEC}.Release|x86.ActiveCfg = Release|Win32
+		{DB58F173-F772-46E1-B823-052274AE9FEC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
