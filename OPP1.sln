@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ObjectsAndDynamicArrays", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ObjectsWithParameterizedConstructorAndArray", "ObjectsWithParameterizedConstructorAndArray\ObjectsWithParameterizedConstructorAndArray.vcxproj", "{1EFE4686-8EB2-4522-821D-F9CF4B3C1E25}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Saudi String Library", "Saudi String Library\Saudi String Library.vcxproj", "{88490869-D5E0-47F9-8CD9-17CA2A019312}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -301,6 +303,14 @@ Global
 		{1EFE4686-8EB2-4522-821D-F9CF4B3C1E25}.Release|x64.Build.0 = Release|x64
 		{1EFE4686-8EB2-4522-821D-F9CF4B3C1E25}.Release|x86.ActiveCfg = Release|Win32
 		{1EFE4686-8EB2-4522-821D-F9CF4B3C1E25}.Release|x86.Build.0 = Release|Win32
+		{88490869-D5E0-47F9-8CD9-17CA2A019312}.Debug|x64.ActiveCfg = Debug|x64
+		{88490869-D5E0-47F9-8CD9-17CA2A019312}.Debug|x64.Build.0 = Debug|x64
+		{88490869-D5E0-47F9-8CD9-17CA2A019312}.Debug|x86.ActiveCfg = Debug|Win32
+		{88490869-D5E0-47F9-8CD9-17CA2A019312}.Debug|x86.Build.0 = Debug|Win32
+		{88490869-D5E0-47F9-8CD9-17CA2A019312}.Release|x64.ActiveCfg = Release|x64
+		{88490869-D5E0-47F9-8CD9-17CA2A019312}.Release|x64.Build.0 = Release|x64
+		{88490869-D5E0-47F9-8CD9-17CA2A019312}.Release|x86.ActiveCfg = Release|Win32
+		{88490869-D5E0-47F9-8CD9-17CA2A019312}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
